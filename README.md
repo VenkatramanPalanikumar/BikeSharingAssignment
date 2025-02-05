@@ -1,2 +1,6 @@
 # BikeSharingAssignment
 BikeSharingAssignment
+
+https://github.com/VenkatramanPalanikumar/BikeSharingAssignment
+
+https://github.com/VenkatramanPalanikumar/BikeSharingAssignment/blob/4a235248c69c0234fd380a47ab34d0db76936500/Regression%2BSubjective%2BQuestions.pdf
